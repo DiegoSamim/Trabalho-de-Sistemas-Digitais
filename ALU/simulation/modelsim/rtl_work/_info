@@ -1,0 +1,48 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Users/Public/Downloads/Circuitos Log/ALU/simulation/modelsim
+Ealu
+Z1 w1689607182
+!i122 0
+R0
+Z2 8E:/Users/Public/Downloads/Circuitos Log/ALU/ALU.vhd
+Z3 FE:/Users/Public/Downloads/Circuitos Log/ALU/ALU.vhd
+l0
+L1 1
+VzMkHZWJb9EHA5W^S9;<X72
+!s100 BBCZLOGI<>dFDB<=7nR>?2
+Z4 OV;C;2020.1;71
+31
+Z5 !s110 1689608501
+!i10b 1
+Z6 !s108 1689608501.000000
+Z7 !s90 -reportprogress|300|-93|-work|work|E:/Users/Public/Downloads/Circuitos Log/ALU/ALU.vhd|
+!s107 E:/Users/Public/Downloads/Circuitos Log/ALU/ALU.vhd|
+!i113 1
+Z8 o-93 -work work
+Z9 tExplicit 1 CvgOpt 0
+Adataflow
+DEx4 work 3 alu 0 22 zMkHZWJb9EHA5W^S9;<X72
+!i122 0
+l8
+L7 5
+VjNi>ohLoVgai9DzQe3PiN1
+!s100 9Jldj@O1L[O3Cm2?Y9TID1
+R4
+31
+R5
+!i10b 1
+R6
+R7
+Z10 !s107 E:/Users/Public/Downloads/Circuitos Log/ALU/ALU.vhd|
+!i113 1
+R8
+R9
